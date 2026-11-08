@@ -3,7 +3,7 @@
   "wake_word": "Et Veulin",
   "author": "JB",
   "website": "local",
-  "model": https://raw.githubusercontent.com/jbzzz54/MWW/main/et_veulin.json,
+  "model": "https://raw.githubusercontent.com/jbzzz54/MWW/main/et_veulin.tflite",
   "trained_languages": ["fr"],
   "version": 2,
   "micro": {
