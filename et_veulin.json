@@ -3,7 +3,7 @@
   "wake_word": "Et Veulin",
   "author": "JB",
   "website": "local",
-  "model": "my_models/et_veulin.tflite",
+  "model": "et_veulin.tflite",
   "trained_languages": ["fr"],
   "version": 2,
   "micro": {
