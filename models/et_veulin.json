@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "Et Veulin",
-  "author": "malonestar",
+  "author": "jibzz54",
   "website": "https://github.com/jibzzz54",
   "model": "et_veulin.tflite",
   "trained_languages": ["en"],
