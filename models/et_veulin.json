@@ -3,7 +3,7 @@
   "wake_word": "Et Veulin",
   "author": "malonestar",
   "website": "https://github.com/jibzzz54",
-  "model": "et_velulin.tflite",
+  "model": "et_veulin.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
