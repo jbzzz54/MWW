@@ -4,7 +4,7 @@
   "author": "JB",
   "website": "local",
   "model": "https://github.com/jbzzz54/MWW/blob/de2f31d1511bcd27331225608fda571e6fb8f33c/et_veulin.tflite",
-  "trained_languages": [ "fr" ],
+  "trained_languages": ["fr"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.95,
