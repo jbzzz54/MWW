@@ -1,8 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Et Veulin",
-  "author": "JB",
-  "website": "local",
+  "wake_word": "et veulin",
   "model": "https://github.com/jbzzz54/MWW/main/et_veulin.tflite",
   "trained_languages": ["fr"],
   "version": 2,
